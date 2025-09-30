@@ -73,4 +73,4 @@ pip install -r requirements.txt
 ---
 
 ## Authors  
-Group 26 – Project 1  
+Group 26 – Jodi Barnes & Lauren Moffett  
